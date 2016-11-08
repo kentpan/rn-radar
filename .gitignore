@@ -62,3 +62,6 @@ Icon
 
 # Bower components
 /src/components
+
+# not ignore
+!/App
