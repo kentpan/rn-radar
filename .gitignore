@@ -28,7 +28,6 @@ $RECYCLE.BIN/
 # =========================
 
 .DS_Store
-.AppleDouble
 .LSOverride
 .idea
 .svn
@@ -62,6 +61,3 @@ Icon
 
 # Bower components
 /src/components
-
-# not ignore
-!/App
