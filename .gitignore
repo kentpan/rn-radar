@@ -33,7 +33,6 @@ $RECYCLE.BIN/
 .idea
 .svn
 .git
-trunk
 branches
 
 # Icon must ends with two \r.
